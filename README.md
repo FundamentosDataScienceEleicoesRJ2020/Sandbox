@@ -14,7 +14,7 @@ Identificar qual o nível de protagonismo das mídias sociais nas eleições mun
 ## 2. Descrição do dataset e sua fonte:
 O dataset é composto por dados coletados do twitter sobre os candidatos à prefeitura do Rio de Janeiro. Os dados foram coletados utilizando a API oficial do Twitter no período entre 29/09/2020 à 01/12/2020.  
 O dataset possui possui 3.3GB e possui 580.000 tweets que usaram em seu texto termos relacionados aos candidatos da época.  
-Para mais detalhes sobre a proveniência do dataset, verificar a [seção 8](8-projeto-de-coleta-de-metadados-da-proveniência-dos-experimentos).
+Para mais detalhes sobre a proveniência do dataset, verificar a [seção 8](#8-projeto-de-coleta-de-metadados-da-proveniência-dos-experimentos).
 
 ## 3. O quê pretendem fazer e o quê vão e como extrair (plano dos experimentos):
 Os dados foram extraídos usando a API do twitter. Eles são retornados com base em termos pré-definidos e informados à API. Os termos utilizados combinam os nomes dos candidatos, o número de seu respectivo partido, a sigla do partido e o ano da eleição.
