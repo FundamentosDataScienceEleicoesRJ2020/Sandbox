@@ -90,7 +90,7 @@ Por fim, todos os scripts e artefatos desenvolvidos para este projeto estão dis
 
 ## 8. Projeto de coleta de metadados da proveniência dos experimentos:
 Para coletar os metadados de proveniência do dataset escolhido, descrito na [seção 2](#2-descrição-do-dataset-e-sua-fonte) deste documento, e gerar o respectivo grafo de proveniência  (mostrado abaixo) foi utilizada a biblioteca PROV do Python (https://pypi.org/project/prov/), em sua versão 2.0.0.  
-TODO: imagem PROV
+![image](https://raw.githubusercontent.com/FundamentosDataScienceEleicoesRJ2020/Sandbox/main/artefatos/prefeito_rio_2020-dataset-prov.png)
 
 ## 9. Projeto para tornar o experimento reprodutível:
 Seguindo-se os preceitos dispostos em “Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into Scientific Contributions” (Fabien C. Y. Benureau e Nicolas P. Rougier), coletamos todas as informações necessárias de ambiente (Sistema Operacional e sua arquitetura; Linguagem de Programação e as bibliotecas utilizadas) para tornar o experimento reprodutível. Além disso, os scripts Python estão sendo criados com o maior zelo possível, visando documentar os passos executados durante todo o experimento e seguir as boas práticas de programação para tornar esses códigos reusáveis.
