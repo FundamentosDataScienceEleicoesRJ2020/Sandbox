@@ -89,7 +89,8 @@ Além do planejamento prévio descrito na [seção 3](#3-o-quê-pretendem-fazer-
 Por fim, todos os scripts e artefatos desenvolvidos para este projeto estão disponíveis para acesso através do GitHub (https://github.com/FundamentosDataScienceEleicoesRJ2020/Sandbox).
 
 ## 8. Projeto de coleta de metadados da proveniência dos experimentos:
-Para coletar os metadados de proveniência do dataset escolhido, descrito na [seção 2](#2-descrição-do-dataset-e-sua-fonte) deste documento, e gerar o respectivo grafo de proveniência  (mostrado abaixo) foi utilizada a biblioteca PROV do Python (https://pypi.org/project/prov/), em sua versão 2.0.0.  
+Para coletar os metadados de proveniência do dataset escolhido, descrito na [seção 2](#2-descrição-do-dataset-e-sua-fonte) deste documento, e gerar o respectivo grafo de proveniência  (mostrado abaixo) foi utilizada a biblioteca PROV do Python (https://pypi.org/project/prov/), em sua versão 2.0.0.
+
 ![image](https://raw.githubusercontent.com/FundamentosDataScienceEleicoesRJ2020/Sandbox/main/artefatos/prefeito_rio_2020-dataset-prov.png)
 
 ## 9. Projeto para tornar o experimento reprodutível:
